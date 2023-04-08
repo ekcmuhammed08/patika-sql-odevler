@@ -1,1 +1,1 @@
-# patika-sql--devler
+# patika-sql-ödevler
